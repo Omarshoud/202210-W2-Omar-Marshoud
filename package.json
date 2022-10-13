@@ -6,5 +6,8 @@
     "scripts": {},
     "keywords": [],
     "author": "Omar Marshoud",
-    "license": "ISC"
+    "license": "ISC",
+    "prettier": {
+        "singleQuote": true
+    }
 }
