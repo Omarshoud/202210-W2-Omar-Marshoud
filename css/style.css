@@ -23,6 +23,7 @@ h2 {
     font-weight: 70;
     margin-top: auto;
     margin-bottom: auto;
+    margin-right: 1rem;
 }
 .info-shop {
     height: 60px;
@@ -50,6 +51,7 @@ main {
 }
 main div {
     margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 main h4 {
     text-align: right;
@@ -59,10 +61,12 @@ main h4 {
     border-color: blueviolet;
     border-width: 0.03cm;
     padding-top: 0.5cm;
+    margin-right: 1rem;
 }
 main p {
     margin-left: auto;
     margin-top: 1rem;
+    margin-right: 1rem;
 }
 
 .first-article {
