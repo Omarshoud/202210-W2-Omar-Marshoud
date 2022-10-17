@@ -10,10 +10,11 @@ header {
 
 h1 {
     margin-right: auto;
-    font-size: 1.7rem;
+    font-size: 2rem;
     margin-left: 1rem;
     margin-top: auto;
     margin-bottom: auto;
+    font-weight: bold;
 }
 
 h2 {
@@ -63,6 +64,7 @@ main p {
     margin-left: auto;
     margin-top: 1rem;
 }
+
 .first-article {
     display: flex;
 }
@@ -96,4 +98,40 @@ footer img {
     margin-top: 1rem;
     margin-bottom: auto;
     margin-left: 1rem;
+}
+
+.edit h2 {
+    font-size: 2rem;
+    margin-left: 1rem;
+}
+
+.info-name {
+    font-size: 1.5rem;
+    font-weight: lighter;
+    border-bottom: solid;
+    border-color: blueviolet;
+    padding-bottom: 1cm;
+    margin-left: 1rem;
+    margin-right: 15rem;
+}
+
+.info-price {
+    font-size: 1.5rem;
+    font-weight: lighter;
+    margin-bottom: 4rem;
+    border-bottom: solid;
+    border-color: blueviolet;
+    padding-bottom: 1cm;
+    margin-left: 1rem;
+    margin-right: 15rem;
+}
+
+.edit-product {
+    color: rgb(255, 255, 255);
+    background-color: rgb(68, 86, 168);
+    margin-left: 1rem;
+    font-size: 1.5rem;
+    font-weight: lighter;
+    padding: 0.2cm;
+    border-style: solid;
 }
