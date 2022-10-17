@@ -3,7 +3,7 @@
     margin: 0;
 }
 header {
-    background-color: rgb(68, 86, 168);
+    background-color: #5168a6;
     display: flex;
     height: 100px;
 }
@@ -28,7 +28,7 @@ h2 {
 .info-shop {
     height: 60px;
     display: flex;
-    background-color: rgb(217, 165, 98);
+    background-color: #d09d72;
     font-size: 1.2rem;
 }
 .info-shop h3 {
@@ -45,7 +45,7 @@ h2 {
 }
 
 main {
-    background-color: rgb(229, 209, 182);
+    background-color: #d1bead;
     height: 400px;
     padding-top: 2rem;
 }
@@ -58,7 +58,7 @@ main h4 {
     font-size: 1.6rem;
     font-weight: 100;
     border-top: solid;
-    border-color: blueviolet;
+    border-color: #561a87;
     border-width: 0.03cm;
     padding-top: 0.5cm;
     margin-right: 1rem;
@@ -85,7 +85,7 @@ main p {
 }
 
 footer {
-    background-color: rgb(68, 86, 168);
+    background-color: #5168a6;
     height: 80px;
     text-align: center;
 }
@@ -95,7 +95,7 @@ footer img {
 }
 
 .info-shop img {
-    background-color: blueviolet;
+    background-color: #561a87;
     border-radius: 50%;
     width: 32px;
     height: 32px;
@@ -113,7 +113,7 @@ footer img {
     font-size: 1.5rem;
     font-weight: lighter;
     border-bottom: solid;
-    border-color: blueviolet;
+    border-color: #561a87;
     padding-bottom: 1cm;
     margin-left: 1rem;
     margin-right: 15rem;
@@ -124,7 +124,7 @@ footer img {
     font-weight: lighter;
     margin-bottom: 4rem;
     border-bottom: solid;
-    border-color: blueviolet;
+    border-color: #561a87;
     padding-bottom: 1cm;
     margin-left: 1rem;
     margin-right: 15rem;
@@ -132,7 +132,7 @@ footer img {
 
 .edit-product {
     color: rgb(255, 255, 255);
-    background-color: rgb(68, 86, 168);
+    background-color: #5168a6;
     margin-left: 1rem;
     font-size: 1.5rem;
     font-weight: lighter;
