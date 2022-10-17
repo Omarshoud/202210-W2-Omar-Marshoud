@@ -60,11 +60,17 @@ main p {
 }
 
 .first-article {
-    color: rgb(255, 136, 0);
     display: flex;
+}
+.first-article:hover {
+    color: rgb(255, 136, 0);
 }
 .third-article {
     display: flex;
+}
+
+[id='ch-1'] {
+    cursor: pointer;
 }
 
 footer {
