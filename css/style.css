@@ -52,6 +52,7 @@ main {
 main div {
     margin-top: 1rem;
     margin-bottom: 1rem;
+    margin-right: 1rem;
 }
 main h4 {
     text-align: right;
@@ -70,6 +71,9 @@ main p {
 }
 
 .first-article {
+    display: flex;
+}
+.second-article {
     display: flex;
 }
 .first-article:hover {
@@ -97,8 +101,8 @@ footer img {
 .info-shop img {
     background-color: #561a87;
     border-radius: 50%;
-    width: 32px;
-    height: 32px;
+    width: 40px;
+    height: 40px;
     margin-top: 1rem;
     margin-bottom: auto;
     margin-left: 1rem;
