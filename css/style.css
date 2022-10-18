@@ -83,7 +83,7 @@ main p {
     display: flex;
 }
 
-[id='ch-1'] {
+.ch-1 {
     cursor: pointer;
     margin-left: 1rem;
 }
