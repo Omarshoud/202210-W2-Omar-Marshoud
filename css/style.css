@@ -10,7 +10,7 @@ header {
 
 h1 {
     margin-right: auto;
-    font-size: 2rem;
+    font-size: 1rem;
     margin-left: 1rem;
     margin-top: auto;
     margin-bottom: auto;
@@ -19,7 +19,7 @@ h1 {
 
 h2 {
     margin-left: auto;
-    font-size: 0.5cm;
+    font-size: 0.3cm;
     font-weight: 70;
     margin-top: auto;
     margin-bottom: auto;
@@ -32,12 +32,12 @@ h2 {
     font-size: 1.2rem;
 }
 .info-shop h3 {
-    margin-left: 71%;
+    margin-left: 55%;
     margin-top: auto;
     margin-bottom: auto;
     font-weight: 300;
     text-align: right;
-    font-size: 2ch;
+    font-size: 1rem;
 }
 
 [id='list'] {
@@ -77,6 +77,12 @@ main p {
     display: flex;
 }
 .first-article:hover {
+    color: rgb(255, 136, 0);
+}
+.second-article:hover {
+    color: rgb(255, 136, 0);
+}
+.third-article:hover {
     color: rgb(255, 136, 0);
 }
 .third-article {
